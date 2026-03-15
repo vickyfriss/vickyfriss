@@ -1,10 +1,18 @@
-## Hi there 👋 I'm Victoria
+## Hi 👋 I'm Victoria Friss de Kereki
 
-- 🎓 MSc Data Science & Analytics (Distinction) – Cardiff University  
-- 📊 Data Scientist with experience in fintech and healthcare analytics  
-- ⚽ Interested in sports analytics, predictive modelling and simulation  
-- 🏋️ Competitive Olympic weightlifting athlete  
-- 🌱 Currently building sports analytics and data science projects  
+Applied Data Scientist (MSc Data Science & Analytics – Distinction) focused on **sports analytics, performance modelling, and simulation in sport**.
 
-📫 **I’m actively looking for opportunities in data science and sports analytics — feel free to reach out:**  
-- LinkedIn: [https://www.linkedin.com/in/victoria-friss-de-kereki/]
+- ⚽ Building sports analytics models and simulation tools  
+- 📊 Experience in machine learning and large-scale data analysis (fintech, healthcare, e-commerce)  
+- 🏋️ World Champion u57 Natural Strongwoman & competitive weightlifter  
+- ✍️ Writing about sports analytics and data science on Medium  
+
+⚽ **Sports Analytics Project**  
+Football League Simulator  
+https://football-league-simulator.streamlit.app/
+
+📫 **I'm actively looking for opportunities in sports analytics or sports data science - if you're working in this space, I'd love to connect.**
+
+- LinkedIn: https://www.linkedin.com/in/victoria-friss-de-kereki  
+- Medium: https://medium.com/@vickyfrissdekereki  
+- Portfolio (front-end + data science projects): https://www.victoriafriss.com
