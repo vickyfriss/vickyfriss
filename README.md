@@ -7,10 +7,9 @@ Applied Data Scientist (MSc Data Science & Analytics - Distinction) focused on *
 - 🏋️ World Champion u57 Natural Strongwoman & competitive weightlifter  
 - ✍️ Writing about sports analytics and data science on Medium  
 
-⚽ **Sports Analytics Project**  Football League Simulator  -> https://football-league-simulator.streamlit.app/
-
 📫 **I'm actively looking for opportunities in sports analytics or sports data science - if you're working in this space, I'd love to connect.**
 
 - LinkedIn: https://www.linkedin.com/in/victoria-friss-de-kereki  
-- Medium: https://medium.com/@vickyfrissdekereki  
-- Portfolio (front-end + data science projects): https://www.victoriafriss.com
+- Medium: https://medium.com/@vickyfrissdekereki
+- Fottball League Simulator: https://football-league-simulator.streamlit.app/  
+- Front-end + Data Science Portfolio: https://www.victoriafriss.com
