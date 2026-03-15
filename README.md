@@ -7,9 +7,7 @@ Applied Data Scientist (MSc Data Science & Analytics - Distinction) focused on *
 - 🏋️ World Champion u57 Natural Strongwoman & competitive weightlifter  
 - ✍️ Writing about sports analytics and data science on Medium  
 
-⚽ **Sports Analytics Project**  
-Football League Simulator  
-https://football-league-simulator.streamlit.app/
+⚽ **Sports Analytics Project**  Football League Simulator  -> https://football-league-simulator.streamlit.app/
 
 📫 **I'm actively looking for opportunities in sports analytics or sports data science - if you're working in this space, I'd love to connect.**
 
