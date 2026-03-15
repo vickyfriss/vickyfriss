@@ -12,5 +12,5 @@ Applied Data Scientist (MSc Data Science & Analytics - Distinction) focused on *
 - LinkedIn: https://www.linkedin.com/in/victoria-friss-de-kereki  
 - Medium: https://medium.com/@vickyfrissdekereki
 - Email: vicky_friss@hotmail.com  
-- Fottball League Simulator: https://football-league-simulator.streamlit.app/  
+- Football League Simulator: https://football-league-simulator.streamlit.app/  
 - Front-end + Data Science Portfolio: https://www.victoriafriss.com
