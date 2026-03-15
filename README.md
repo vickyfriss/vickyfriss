@@ -9,8 +9,8 @@ Applied Data Scientist (MSc Data Science & Analytics - Distinction) focused on *
 
 📫 **I'm actively looking for opportunities in sports analytics or sports data science. If you're working in this space, I'd love to connect.**
 
-- Email: vicky_friss@hotmail.com  
 - LinkedIn: https://www.linkedin.com/in/victoria-friss-de-kereki  
 - Medium: https://medium.com/@vickyfrissdekereki
+- Email: vicky_friss@hotmail.com  
 - Fottball League Simulator: https://football-league-simulator.streamlit.app/  
 - Front-end + Data Science Portfolio: https://www.victoriafriss.com
