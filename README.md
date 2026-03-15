@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Victoria Friss de Kereki
 
-Applied Data Scientist (MSc Data Science & Analytics – Distinction) focused on **sports analytics, performance modelling, and simulation in sport**.
+Applied Data Scientist (MSc Data Science & Analytics - Distinction) focused on **sports analytics, performance modelling, and simulation in sport**.
 
 - ⚽ Building sports analytics models and simulation tools  
 - 📊 Experience in machine learning and large-scale data analysis (fintech, healthcare, e-commerce)  
