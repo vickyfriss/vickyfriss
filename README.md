@@ -14,4 +14,3 @@ Football Data Analyst at **SkillCorner** (MSc Data Science & Analytics + MSc Fin
 - Medium: https://medium.com/@vickyfrissdekereki
 - Email: vicky_friss@hotmail.com
 - Football League Simulator: https://football-league-simulator.streamlit.app/
-- Front-end + Data Science Portfolio: https://www.victoriafriss.com
